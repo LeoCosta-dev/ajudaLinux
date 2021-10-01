@@ -1,6 +1,8 @@
 # Script de pós instalação para criar ambiente básico de desenvolvimento em Linux
 
 ## Sistemas compativeis:
+![ubuntulogo](https://cdn.icon-icons.com/icons2/17/PNG/32/ubuntu_linux_2075.png)
+![fedoralogo](https://cdn.icon-icons.com/icons2/1508/PNG/32/distributorlogofedora_104089.png)
 ### Sistemas baseados em Debian como Ubuntu 20.04 LTS e derivados (Já testado)
 ### Sistemas com base em RPM como Fedora e derivados (Ainda não testado)
 #
@@ -21,7 +23,7 @@
 
 #
 ## Observações finais:
-### - Ambiente pensado para fornecer as ferramentas mais simples para desenvolvimento e um pouco de entreterimento do desenvolvedor em seu ambiente, para outras aplicações consulte documentações e os sites [DIOLINUX](<https://diolinux.com.br/>), [Edivaldo Brito](<https://www.edivaldobrito.com.br/>) ou [VIVA O LINUX!](<https://www.vivaolinux.com.br/>) que são ótimas referências para **INICIANTES!**.
+### - Ambiente pensado para fornecer as ferramentas mais simples para desenvolvimento e um pouco de entreterimento do desenvolvedor em seu ambiente, para outras aplicações consulte documentações e os sites [DIOLINUX](<https://diolinux.com.br/>), [Edivaldo Brito](<https://www.edivaldobrito.com.br/>) ou [VIVA O LINUX!](<https://www.vivaolinux.com.br/>) que são ótimas referências para **INICIANTES!**
 </br>
 
 ### - Esses scripts foram criados por mim com fins de auxílio para iniciantes, ele é 100% gratuito e da comunidade, favor repassar a quem precisa e se possível ajudem a enriquecer ainda mais esse humilde material. No mais, bom estudo a todos e bem vindos ao mundo Linux.
