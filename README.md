@@ -13,10 +13,10 @@
 ### * No comando de pós instalação geral o sistema atualiza, instala as aplicações git, nodejs, npm, yarn, vlc, pip, suporte a pacotes snap, spotify, insomnia, VS Code, chrome, discord e zoom. Ao final o computador irá reiniciar para ativar os apps instalados por snap.
 </br>
 
-### * Os comandos para instalar o Docker e o MySQL em breve serão atualizados, porém por enquanto entrar no site oficial das aplicações e seguir tutorial fornecido. Esses scripts em especifico são apenas para Ubuntu 20.04 LTS e derivados (*UBUNTU BASED), versões anteriores ou posteriores podem não funcionar e sistenas não baseados em **Ubuntu É CERTEZA QUE NÃO IRÁ FUNCIONAR.** Ao final desses comandos o computador NÃO irá reiniciar.
+### * Os comandos para instalar o Docker e o MySQL em breve serão atualizados, porém por enquanto você pode entrar no site oficial das aplicações e seguir tutorial fornecido. <BR> Esses scripts em especifico são APENAS para Ubuntu 20.04 LTS e derivados. <BR> **VERSÕES ANTERIORES OU POSTERIORES PODEM NÃO FUNCIONAR E SISTEMAS NÃO BASEADOS EM UBUNTU É CERTEZA QUE NÃO IRÁ FUNCIONAR.** <BR>Ao final desses comandos o computador **NÃO** irá reiniciar.
 #
 ## Observações finais:
-### * Ambiente pensado para fornecer as ferramentas mais simples para desenvolvimento e um pouco de entreterimento do desenvolvedor em seu ambiente, para outras aplicações consulte documentações e os sites https://diolinux.com.br/ , https://www.edivaldobrito.com.br/ ou https://www.vivaolinux.com.br/ que são ótimas referências para iniciantes.
+### * Ambiente pensado para fornecer as ferramentas mais simples para desenvolvimento e um pouco de entreterimento do desenvolvedor em seu ambiente, para outras aplicações consulte documentações e os sites [DIOLINUX](<https://diolinux.com.br/>), [Edivaldo Brito](<https://www.edivaldobrito.com.br/>) ou [VIVA O LINUX!](<https://www.vivaolinux.com.br/>) que são ótimas referências para **iniciantes**.
 </br>
 
 ### * Esses scripts foram criados por mim com fins de auxílio para iniciantes, ele é 100% gratuito e da comunidade, favor repassar a quem precisa e se possível ajudem a enriquecer ainda mais esse humilde material. No mais, bom estudo a todos e bem vindos ao mundo Linux.
