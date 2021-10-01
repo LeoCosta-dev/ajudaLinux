@@ -16,8 +16,7 @@
 ### - Os comandos para instalar o Docker e o MySQL em breve serão atualizados, porém por enquanto você pode entrar no site oficial das aplicações e seguir tutorial fornecido. <BR> Esses scripts em especifico são **APENAS** para Ubuntu 20.04 LTS e derivados. 
 <BR> <BR> 
 
-## - **VERSÕES ANTERIORES OU POSTERIORES PODEM NÃO FUNCIONAR E SISTEMAS NÃO BASEADOS EM UBUNTU É CERTEZA QUE NÃO IRÃO FUNCIONAR!** <BR><BR> 
-
+## - **VERSÕES ANTERIORES OU POSTERIORES PODEM NÃO FUNCIONAR E SISTEMAS NÃO BASEADOS EM UBUNTU É CERTEZA QUE NÃO IRÃO FUNCIONAR!** <BR><BR>
 ### Ao final desses comandos o computador **NÃO** irá reiniciar.
 
 #
