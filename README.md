@@ -8,6 +8,15 @@
 ### **Sistemas com base em RPM como Fedora e derivados (Ainda não testado)**
 
 #
+# Selecione seu sistema
+
+## Distribuição
+
+## [Linux Mint](https://github.com/LeoCosta-dev/ajudaLinux/blob/main/mint.md)
+## [Fedora Linux](https://github.com/LeoCosta-dev/ajudaLinux/blob/main/fedora.md)
+## [Ubuntu/Debian/Derivados](https://github.com/LeoCosta-dev/ajudaLinux/blob/main/ubuntu-debian.md)
+
+<br>
 
 ## Maneira de usar:
 ### Abra o arquivo .txt no seu editor de texto, copie a linha baseada no seu sistema retirando o '#' e cole no seu terminal, aperte enter para confirmar e coloque as senhas e confirmações que forem pedidas. (Para abrir o terminal temos o comando Ctrl + Alt + T e o atalho de colagem Ctrl + V não funciona no terminal)
@@ -15,7 +24,7 @@
 #
 ## O que é instalado?
 ### - No comando de pós instalação geral o sistema atualiza, instala as aplicações git, nodejs, npm, yarn, vlc, pip, suporte a pacotes snap, spotify, insomnia, VS Code, chrome, discord e zoom. Ao final o computador irá reiniciar para ativar os apps instalados por snap.
-</br>
+<br>
 
 ### - Os comandos para instalar o Docker e o MySQL em breve serão atualizados, porém por enquanto você pode entrar no site oficial das aplicações e seguir tutorial fornecido.<BR> Esses scripts em especifico são **APENAS** para Ubuntu 20.04 LTS / Fedora e derivados. 
 <BR><BR> 
