@@ -13,4 +13,11 @@
 
 <br>
 
+## Instalação do Docker em Ubuntu 20.04 LTS e Derivados
+```sudo apt update && sudo apt install apt-transport-https ca-certificates curl software-properties-common -y && curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add - && sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu focal stable" && sudo apt update && apt-cache policy docker-ce && sudo apt install docker-ce -y && sudo usermod -aG docker ${USER} && su - ${USER}```
+
+<br>
+
+## Instalação do MySQL em Ubuntu 20.04 LTS e Derivados
+```wget http://cdn.mysql.com/Downloads/MySQLGUITools/mysql-workbench-community_8.0.25-1ubuntu20.04_amd64.deb -O mysql-workbench-community.deb && sudo dpkg -i mysql-workbench-community.deb && sudo apt-get -f install```
 ## Feito!
