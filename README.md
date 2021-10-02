@@ -1,9 +1,9 @@
 # Script de pós instalação para criar ambiente básico de desenvolvimento em Linux
 
 ## Sistemas compativeis:
-![debianlogo](https://cdn.icon-icons.com/icons2/2415/PNG/32/debian_plain_wordmark_logo_icon_146567.png)
-![fedoralogo](https://cdn.icon-icons.com/icons2/1508/PNG/32/distributorlogofedora_104089.png)
-![linuxmintlogo](https://cdn.icon-icons.com/icons2/2108/PNG/32/linux_mint_icon_130886.png)
+![debianlogo](https://cdn.icon-icons.com/icons2/2415/PNG/128/debian_plain_wordmark_logo_icon_146567.png)
+![fedoralogo](https://cdn.icon-icons.com/icons2/1508/PNG/128/distributorlogofedora_104089.png)
+![linuxmintlogo](https://cdn.icon-icons.com/icons2/2108/PNG/128/linux_mint_icon_130886.png)
 
 ### **Sistemas baseados em Debian como Ubuntu 20.04 LTS e derivados (Já testado)**
 ### **Sistemas com base em RPM como Fedora e derivados (Ainda não testado)**
